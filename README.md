@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kiran Kappala.
 - 👀 I’m interested in Programming.
-- 🕵️‍♀️ I have been working as Java Developer.
+- 🕵️‍♀️ I have been working as a Java Developer.
 - 🌱 I’m currently learning Python Programming.
 - 💞️ I’m looking to collaborate on open source projects.
 
