@@ -1,30 +1,66 @@
-### Hi there 👋
+# Hi there, I'm Kiran Kappala 👋
 
-<!--
-**KKIRANGIT/KKIRANGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical Lead · Java · Spring Boot · Microservices · Kafka · AWS**
+11+ Years in Banking & FinTech | Open to Senior Backend / Tech Lead Roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
 
-# Kiran Kappala
+Technical Lead at **Tata Consultancy Services (TCS)**, Hyderabad, currently working on an enterprise financial technology platform for a **large US-based global investment bank**.
 
-Hi there! I'm Kiran, a Senior Software Engineer with a passion for teaching and creating YouTube videos. I believe that sharing knowledge is one of the best ways to learn and grow as a developer.
+11+ years of experience building high-availability distributed systems and microservices for global financial institutions across the US, UK, and South Africa — handling millions of transactions at 99.95%+ uptime SLA.
 
-In my free time, I love creating content for my YouTube channel, where I share tips and tutorials on various programming languages and frameworks. 
+---
 
-<!-- I also run a website called https://www.codingvid.com, which is dedicated to helping developers of all skill levels learn to code. -->
+## 🛠️ Core Stack
 
-As a software engineer, I have extensive experience in developing and delivering high-quality software solutions for a wide range of clients. I specialize in building scalable and performant web applications using modern technologies such as Java, Spring Boot, React JS, Material UI and Oracle Database.
+**Backend:** Java 8/11/17 · Spring Boot · Spring Security · Hibernate
+**Messaging:** Apache Kafka · Redis · Event-Driven Architecture
+**API & Security:** REST API · JWT · OAuth2 · OWASP
+**Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS, SQS) · Docker · Jenkins CI/CD
+**Databases:** Oracle SQL/PLSQL · MySQL · TimescaleDB
+**Reliability:** Resilience4j · OpenTelemetry · Grafana
+**Frontend:** React JS · HTML5 · CSS3 *(working knowledge)*
 
-Thanks for stopping by my profile, and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kirankappala/) or [Twitter!](https://twitter.com/kkiran1633)
+---
 
+## 🏗️ Personal Projects
 
+**UltraCandle HFT Edition** — Real-time NSE market data pipeline
+Kafka · TimescaleDB · Redis · Grafana · React JS · Docker · Zerodha Kite Connect API
+
+**Distributed Rate Limiter** — Spring Boot starter for multi-tenant API throttling
+Redis · Lua Scripting · JMeter · Maven
+
+---
+
+## 📚 Currently Learning
+
+☸️ Kubernetes · 🏛️ System Design (CQRS, Saga, Event Sourcing) · ☁️ AWS Solutions Architect Associate · 📡 gRPC · 📈 Algorithmic Trading
+
+---
+
+## 💼 Experience
+
+```
+Technical Lead        @ TCS → Large US Investment Bank          Jan 2026 – Present
+Senior Software Eng.  @ Zensar → African Core Banking Platform  Mar 2023 – Apr 2025
+Senior Software Eng.  @ Capgemini → Global Digital Bank         May 2022 – Mar 2023
+Senior Software Eng.  @ Honeywell Technology Solutions          Jun 2016 – Feb 2018
+Senior Solutions Dev. @ Magnaquest Technologies                 Nov 2013 – Jun 2016
+```
+
+---
+
+## 🎯 Open To
+
+Senior Backend Engineer and Tech Lead roles at product-focused technology companies.
+Feel free to reach out — I'd love to connect.
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kirankappala-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kirankappala/)
+[![Email](https://img.shields.io/badge/Email-kkiran1633@gmail.com-D14836?style=flat&logo=gmail)](mailto:kkiran1633@gmail.com)
+
+*📍 Hyderabad, India*
