@@ -15,7 +15,7 @@ Technical Lead at **Tata Consultancy Services (TCS)**, Hyderabad, currently work
 
 ## 🛠️ Core Stack
 
-**Backend:** Java 8/11/17 · Spring Boot · Spring Security · Hibernate
+**Backend:** Java 8/11/17/21 · Spring Boot · Spring Security · Hibernate
 **Messaging:** Apache Kafka · Redis · Event-Driven Architecture
 **API & Security:** REST API · JWT · OAuth2 · OWASP
 **Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS, SQS) · Docker · Jenkins CI/CD
